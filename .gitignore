@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environment
+.env
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Static files
+static/
+
+# Media files
+media/
+
+# Documentation
+docs/_build/
+
+# Sphinx
+*.rst
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# GitHub
+.github/
+
+# Coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Test
+*.bak
+*.swp
+*.swo
