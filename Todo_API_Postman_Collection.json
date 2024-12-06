@@ -236,7 +236,8 @@
 				"auth": {
 					"type": "basic",
 					"basic": [
-						{
+					{
+						"dj-database-url":"2.1.0",
 							"key": "password",
 							"value": "admin123",
 							"type": "string"
